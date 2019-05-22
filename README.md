@@ -1,6 +1,6 @@
 # Omniauth::farmbox
 
-Cliamte farmbox Omniath2
+Farmbox Omniath2
 
 ## Installation
 

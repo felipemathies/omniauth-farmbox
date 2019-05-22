@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Felipe Mathies"]
   spec.email         = ["felipe.mathies@gmail.com"]
 
-  spec.summary       = %q{Climate Farmbox Omniatuh2}
-  spec.description   = %q{Climate Farmbox Omniatuh2}
+  spec.summary       = %q{Farmbox Omniatuh2}
+  spec.description   = %q{Farmbox Omniatuh2}
   #spec.homepage      = "TODO: Put your gem's website or public repo URL here."
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
